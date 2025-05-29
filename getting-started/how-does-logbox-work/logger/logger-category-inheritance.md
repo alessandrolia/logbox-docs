@@ -32,7 +32,7 @@ config.error(
   "coldbox.system.plugins"
 );
 // same as
-config.cateogry(
+config.category(
   name="coldbox.system.plugins",
   levelMax="ERROR"
 );
